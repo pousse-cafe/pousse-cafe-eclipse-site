@@ -3,7 +3,7 @@
    <description name="Pousse-Café Update Site" url="https://download.pousse-cafe-framework.org/eclipse/updates">
       
    </description>
-   <feature url="features/poussecafe.eclipse.feature_0.4.0.202102121047.jar" id="poussecafe.eclipse.feature" version="0.4.0.202102121047">
+   <feature url="features/poussecafe.eclipse.feature_0.4.1.202102241419.jar" id="poussecafe.eclipse.feature" version="0.4.1.202102241419">
       <category name="pousseCafeSiteCategory"/>
    </feature>
    <category-def name="pousseCafeSiteCategory" label="Pousse-Café"/>
