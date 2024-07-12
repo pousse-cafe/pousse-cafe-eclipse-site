@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <description name="Pousse-Café Update Site" url="https://download.pousse-cafe-framework.org/eclipse/updates">
-      
+      Pousse-Café Eclipse plug-in
    </description>
-   <feature url="features/poussecafe.eclipse.feature_0.5.0.202203040825.jar" id="poussecafe.eclipse.feature" version="0.5.0.202203040825">
+   <feature url="features/poussecafe.eclipse.feature_0.5.1.202407121404.jar" id="poussecafe.eclipse.feature" version="0.5.1.202407121404">
       <category name="pousseCafeSiteCategory"/>
    </feature>
    <category-def name="pousseCafeSiteCategory" label="Pousse-Café"/>
